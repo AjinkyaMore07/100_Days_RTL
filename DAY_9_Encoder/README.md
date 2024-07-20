@@ -1,4 +1,4 @@
-# 4-to-2 Priority Encoder
+# 4-to-2  Encoder
 
 This repository contains the Verilog implementation of a 4-to-2 priority encoder along with its testbench.
 

@@ -1,0 +1,29 @@
+
+module tb_decoder;
+  reg a,b,enable;
+  wire y0,y1,y2,y3;
+  
+decoder2x4 uut(a,b,enable ,y0,y1,y2,y3);
+  
+  
+ initial begin
+    enable = 1; a = 0; b = 0; #10;
+    enable = 1; a = 0; b = 1; #10;
+    enable = 1; a = 1; b = 0; #10;
+    enable = 1; a = 1; b = 1; #10;
+    
+    enable = 0; a = 0; b = 0; #10;
+    enable = 0; a = 0; b = 1; #10;
+    enable = 0; a = 1; b = 0; #10;
+    enable = 0; a = 1; b = 1; #10;
+   
+ end
+ initial begin
+   $dumpfile("decoder.vcd");
+   $dumpvars;
+ end
+  
+ initial begin
+ 	#100 $finish
+ end
+endmodule

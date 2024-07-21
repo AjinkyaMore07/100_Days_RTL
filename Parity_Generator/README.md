@@ -30,7 +30,7 @@ Parity generators are used primarily for error detection in digital communicatio
 
 1. **Networking**: Error detection in data packets transmitted over Ethernet, Wi-Fi, etc.
 2. **Data Storage**: Error detection in RAID systems, SSDs, and other storage technologies.
-3. **Communication Protocols**: Used in UART, I2C, and other serial communication protocols.
+3. **Communication Protocols**: Used in UART, and other serial communication protocols.
 4. **Memory Modules**: Error detection in RAM modules, especially in ECC (Error-Correcting Code) memory.
 
 #### Types of Parity Generators

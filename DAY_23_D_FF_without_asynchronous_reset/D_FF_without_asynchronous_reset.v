@@ -1,4 +1,4 @@
-module D_FF_without_asynchronous_reset (
+module D_FF_with_asynchronous_reset (
     input wire d,
     input wire clk,
     input wire reset,

@@ -16,3 +16,4 @@ Detailed Explanation
    3] SISO register is used efficiently to decrease the no. of wires connecting the different systems within the design.
    4] SISO shift register delays data through a single CLK time for every stage & they will store a data bit for every register.
    5] These types of registers are mainly used especially for time delays.
+ 

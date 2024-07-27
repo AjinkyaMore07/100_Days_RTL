@@ -5,7 +5,7 @@ module tb_sipo;
   wire [3:0] out;
 
   // Instantiate the SIPO module
-  sipo uut (
+  pipo uut (
     .in(in),
     .clk(clk),
     .reset(reset),

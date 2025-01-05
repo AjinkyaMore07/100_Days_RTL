@@ -33,11 +33,5 @@ module pattern_1010 (
         endcase
     end
 
-    // Output Logic
-    always @(posedge clk or posedge reset) begin
-        if (reset)
-            q <= 0;
-        else
-            q <= (cs == s4); // Output is 1 when in state s4
-    end
+  assign q = (cs == s4) ? 1:0;
 endmodule

@@ -37,12 +37,12 @@ This repository is a 100-day challenge aimed at exploring and mastering digital 
   ---
   Here’s the updated text with the symbol first, followed by the day:
 
-    ⭐ Day 1 : Basic Gates .
-    ⭐ Day 2 : Half_Adder
-    ⭐ Day 3 : Full_Adder_DataFlow_Model
-    ⭐ Day 4 : Carry Lookahead Adder
-    ⭐ Day 5 :
-    ⭐ Day 6 :
+    ⭐ Day 1 : Basic Gates.
+    ⭐ Day 2 : Half_Adder.
+    ⭐ Day 3 : Full_Adder_DataFlow_Model.
+    ⭐ Day 4 : Carry Lookahead Adder.
+    ⭐ Day 5 : Parallel Adder.
+    ⭐ Day 6 : Ripple Adder.
     ⭐ Day 7 :
     ⭐ Day 8 :
     ⭐ Day 9 :

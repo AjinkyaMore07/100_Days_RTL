@@ -40,7 +40,7 @@ This repository is a 100-day challenge aimed at exploring and mastering digital 
     ⭐ Day 1 : Basic Gates .
     ⭐ Day 2 : Half_Adder
     ⭐ Day 3 : Full_Adder_DataFlow_Model
-    ⭐ Day 4 :
+    ⭐ Day 4 : Carry Lookahead Adder
     ⭐ Day 5 :
     ⭐ Day 6 :
     ⭐ Day 7 :

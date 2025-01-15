@@ -44,7 +44,7 @@ This repository is a 100-day challenge aimed at exploring and mastering digital 
     ⭐ Day 5 : Parallel Adder.
     ⭐ Day 6 : Ripple Adder.
     ⭐ Day 7 : 2x4 Decoder .
-    ⭐ Day 8 : 
+    ⭐ Day 8 : 7-segment display decoder .
     ⭐ Day 9 :
     ⭐ Day 10 :
     ⭐ Day 11 :

@@ -45,8 +45,8 @@ This repository is a 100-day challenge aimed at exploring and mastering digital 
     ⭐ Day 6 : Ripple Adder.
     ⭐ Day 7 : 2x4 Decoder .
     ⭐ Day 8 : 7-segment display decoder .
-    ⭐ Day 9 :
-    ⭐ Day 10 :
+    ⭐ Day 9 : 4-to-2 Encoder.
+    ⭐ Day 10 : Priority Encoder .
     ⭐ Day 11 :
     ⭐ Day 12 :
     ⭐ Day 13 :

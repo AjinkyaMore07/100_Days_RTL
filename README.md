@@ -47,36 +47,36 @@ This repository is a 100-day challenge aimed at exploring and mastering digital 
     ⭐ Day 8 : 7-segment display decoder .
     ⭐ Day 9 : 4-to-2 Encoder.
     ⭐ Day 10 : Priority Encoder .
-    ⭐ Day 11 :
-    ⭐ Day 12 :
-    ⭐ Day 13 :
-    ⭐ Day 14 :
-    ⭐ Day 15 :
-    ⭐ Day 16 :
-    ⭐ Day 17 :
-    ⭐ Day 18 :
-    ⭐ Day 19 :
-    ⭐ Day 20 :
-    ⭐ Day 21 :
-    ⭐ Day 22 :
-    ⭐ Day 23 :
-    ⭐ Day 24 :
-    ⭐ Day 25 :
-    ⭐ Day 26 :
-    ⭐ Day 27 :
-    ⭐ Day 28 :
-    ⭐ Day 29 :
-    ⭐ Day 30 :
-    ⭐ Day 31 :
-    ⭐ Day 32 :
-    ⭐ Day 33 :
-    ⭐ Day 34 :
-    ⭐ Day 35 :
-    ⭐ Day 36 :
-    ⭐ Day 37 :
-    ⭐ Day 38 :
-    ⭐ Day 39 :
-    ⭐ Day 40 :
+    ⭐ Day 11 : octal to binary encoder .
+    ⭐ Day 12 : code_converter .
+    ⭐ Day 13 : parity generator
+    ⭐ Day 14 : parity checker .
+    ⭐ Day 15 : Mux 
+    ⭐ Day 16 : comparator 
+    ⭐ Day 17 : adder-substractor
+    ⭐ Day 18 : BCD_XS3
+    ⭐ Day 19 : carry_select_Adder
+    ⭐ Day 20 : Water level indicator
+    ⭐ Day 21 : Demultiplexer
+    ⭐ Day 22 : D_ff without asynchonous reset
+    ⭐ Day 23 : sr_ff
+    ⭐ Day 24 : jk_ff
+    ⭐ Day 25 : siso
+    ⭐ Day 26 : sipo
+    ⭐ Day 27 : pipo
+    ⭐ Day 28 : counter
+    ⭐ Day 29 : piso
+    ⭐ Day 30 : Bidirectional shift register .
+    ⭐ Day 31 : updown counter .
+    ⭐ Day 32 : ring counter .
+    ⭐ Day 33 : freq_Calculator .
+    ⭐ Day 34 : Johnson counter .
+    ⭐ Day 35 : moore nonoverlapping 1010 .
+    ⭐ Day 36 : moore overlapping 1010 .
+    ⭐ Day 37 : mealy nonoverlapping 1010 .
+    ⭐ Day 38 : mealy overlapping 1010 .
+    ⭐ Day 39 : lfsr .
+    ⭐ Day 40 : posedge detector .
     ⭐ Day 41 :
     ⭐ Day 42 :
     ⭐ Day 43 :

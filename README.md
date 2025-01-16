@@ -58,26 +58,26 @@ This repository is a 100-day challenge aimed at exploring and mastering digital 
     ⭐ Day 19 : carry_select_Adder
     ⭐ Day 20 : Water level indicator
     ⭐ Day 21 : Demultiplexer
-    ⭐ Day 22 : D_ff without asynchonous reset
-    ⭐ Day 23 : sr_ff
-    ⭐ Day 24 : jk_ff
-    ⭐ Day 25 : siso
-    ⭐ Day 26 : sipo
-    ⭐ Day 27 : pipo
-    ⭐ Day 28 : counter
-    ⭐ Day 29 : piso
-    ⭐ Day 30 : Bidirectional shift register .
-    ⭐ Day 31 : updown counter .
-    ⭐ Day 32 : ring counter .
-    ⭐ Day 33 : freq_Calculator .
-    ⭐ Day 34 : Johnson counter .
-    ⭐ Day 35 : moore nonoverlapping 1010 .
-    ⭐ Day 36 : moore overlapping 1010 .
-    ⭐ Day 37 : mealy nonoverlapping 1010 .
-    ⭐ Day 38 : mealy overlapping 1010 .
-    ⭐ Day 39 : lfsr .
-    ⭐ Day 40 : posedge detector .
-    ⭐ Day 41 :
+    ⭐ Day 22 : clock_devide_by2
+    ⭐ Day 23 : D_ff without asynchonous reset
+    ⭐ Day 24 : sr_ff
+    ⭐ Day 25 : jk_ff
+    ⭐ Day 26 : siso
+    ⭐ Day 27 : sipo
+    ⭐ Day 28 : pipo
+    ⭐ Day 29 : counter
+    ⭐ Day 30 : piso
+    ⭐ Day 31 : Bidirectional shift register .
+    ⭐ Day 32 : updown counter .
+    ⭐ Day 33 : ring counter .
+    ⭐ Day 34 : freq_Calculator .
+    ⭐ Day 35 : Johnson counter .
+    ⭐ Day 36 : moore nonoverlapping 1010 .
+    ⭐ Day 37 : moore overlapping 1010 .
+    ⭐ Day 38 : mealy nonoverlapping 1010 .
+    ⭐ Day 39 : mealy overlapping 1010 .
+    ⭐ Day 40 : lfsr .
+    ⭐ Day 41 : posedge detector .
     ⭐ Day 42 :
     ⭐ Day 43 :
     ⭐ Day 44 :
